@@ -13,7 +13,7 @@ En aquest cas, realitzarem dos exemples d’hibridació en l'actualitat. En prim
 
 D'acord amb els últims informes de l'Agència Internacional de l'Energia (AIE), més de 30% de l'electricitat mundial prové d'energies renovables i aquesta xifra no para d'incrementar. Això vol dir que estem en camí d'una transició energètica que ens canviarà la vida per complet. No obstant això, aquesta transició no seria possible sense les innovacions tecnològiques i la digitalització en la domòtica. Ens hem plantejat en algun moment: “Com seria viure a una casa intel·ligent alimentada amb energia renovable?”.
 
-![nombre de la imagen](https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/casa-sostenible-886x458.jpg)
+![nombre de la imagen](https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/casa-sostenible-886x458.jpg)
 
 Els primers anys de la domòtica a penes tractava d'automatitzar alguna cosa bàsica com temporitzadors per a encendre i apagar llums. Encara que aquestes solucions semblen útils, en absolut arriben l'escala amb la qual comptem hui dia.
 
@@ -23,7 +23,7 @@ En aquest punt, ens trobem amb les energies renovables amb qui formen, des del m
 
 Les bateries compleixen una funció crucial perquè actuen com un pont entre la generació d'energia i el seu ús intel·ligent. A diferència dels sistemes convencionals, en els quals l'energia produïda ha de consumir-se instantàniament o es malgasta, les bateries permeten emmagatzemar excedents d'energia generada. D'eixe mode, l'energia emmagatzemada s’utilitza quan més es necessita, és a dir, durant la nit o en dies ennuvolats, en els quals la producció dels nostres panells solars és menor.
 
-![imatge esquema](https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/1632096208206.gif)
+![imatge esquema](https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/1632096208206.gif)
 
 La **modularitat** també es troba als diferents components del sistema (panells solars, bateries, dispositius intel·ligents), ja que actuen com a mòduls connectats però autònoms. Per exemple, un sistema d'emmagatzematge d'energia addicional, l'actualització del programari o instal·lació de més plaques solars pot agregar-se al sistema sense haver de redissenyar tot el sistema.
 
@@ -33,7 +33,7 @@ Aquesta hibridació no és una simple coexistència d’elements, sino que gener
 
 De fet, la “ludificació” ja s’està començant a implantar en la domòtica: empreses com Tesla, Loxone o Ecobee, ja et permeten visualitzar i controlar el teu consum energètic com si es tractara d'un joc, mitjançant la recompensa per l’eficiència i fomentant hàbits més sostenibles.
 
-![imatge tesla](https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/Tesla-Energy-Plan-Australia-640x320.jpg)
+![imatge tesla](https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/Tesla-Energy-Plan-Australia-640x320.jpg)
 
 Pense que aquesta perspectiva que ens dona Manovich és clau per a obrir la ment, fer front al canvi climàtic i millorar la nostra qualitat de vida al segle XXI. També et convida a pensar i viure d’una manera diferent, obrint portes cap a un futur on la tecnologia i la naturalesa poden conviure de manera més sostenible.
 
