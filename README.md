@@ -1,4 +1,6 @@
 # PEC3_Manovich_Reloaded
+Carlos Part Pellicer
+Grau Multmèdia: Curs 24/25.
 ## Introducció
 
 Al llibre "El software toma el mando", Lev Manovich ens diu que la hibridació és la combinació de diferents mitjans i tecnologies que s’uneixen per crear noves experiències i nous formats transformadors.
@@ -49,7 +51,7 @@ En les seues primeres etapes, la impressió 3D s'usava per a crear prototips mol
 
 Hui dia, la impressió 3D ha anat més enllà i s'ha introduït en camps com la bioenginyeria i la medicina. Un dels exemples més destacats són els implants a mida de pròtesis, implants dentals o fins i tot, ossos fets directament amb material biocompatibles. Però si mirem més enllà, la bioimpressió és una de les aplicacions més revolucionàries: consisteix a imprimir teixits humans obtinguts de cèl·lules vives. Aquesta hibridació entre la impressió 3D i la biologia ha reinventat les trasplantacions i regeneracions en el camp de la medicina, ofereix solucions que no serien possibles de forma independent.
 
-<img src="https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/cover-organs.jpg" width="500">
+<img src="https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/cover-organss.jpg" width="800">
 
 Els professionals mèdics poden utilitzar la impressió 3D per a treballar amb imatges digitals, com ara tomografies, ressonàncies magnètiques, i aquests poden generar models i implants exclusivament per al pacient específic. Ací podem observar un clar exemple de **modularitat**: les dades mèdiques passen a ser manipulades i reutilitzades en altres processos com la impressió 3D i el disseny per ordinador (CAD).
 
@@ -62,11 +64,11 @@ Aquesta no és només una evolució tecnològica sinó un canvi cultural i una r
 ## Bibliografia
 
 - Mosaic. (2018, 18 gener). Elementos de la creatividad multimedia: apropiación, remediación, hibridación. Recuperat de https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/.
-
 - Manovich, L. (2013). El software toma el mando. Editorial UOC. ISBN: 978-8490298650.
-- Markdown. (n.d.). Sintaxis Markdown. Recuperat de https://markdown.es/sintaxis-markdown/.
-- Formlabs. (n.d.). Aplicaciones de la impresión 3D en la atención sanitaria. Recuperat de https://formlabs.com/es/blog/impresion-3D-atencion-sanitaria/.
-- SolarProfit. (n.d.). Esquema de funcionamiento de la energía solar. Recuperat de https://solarprofit.es/es/blog/esquema-funcionamiento-energia-solar/.
-- Tesla. (n.d.). Energía solar y soluciones para el hogar. Recuperat de https://www.tesla.com/es_es/energy.
-- Ordoñez Meoñ, A. (n.d.). Baterías solares: funcionamiento, tipos, precios y recomendaciones. Recuperat de https://es.linkedin.com/pulse/baterías-solares-funcionamiento-tipos-precios-y-ordoñez-meoñ.
-
+- Markdown. Sintaxis Markdown. Recuperat de https://markdown.es/sintaxis-markdown/.
+- SolarProfit. Esquema de funcionamiento de la energía solar. Recuperat de https://solarprofit.es/es/blog/esquema-funcionamiento-energia-solar/.
+- Tesla. Energía solar y soluciones para el hogar. Recuperat de https://www.tesla.com/es_es/energy.
+- Ordoñez Meoñ, A. Baterías solares: funcionamiento, tipos, precios y recomendaciones. Recuperat de https://es.linkedin.com/pulse/baterías-solares-funcionamiento-tipos-precios-y-ordoñez-meoñ.
+- Formlabs. Aplicaciones de la impresión 3D en la atención sanitaria. Recuperat de https://formlabs.com/es/blog/impresion-3D-atencion-sanitaria/.
+- Krear3D. Tecnología de impresión 3D aplicado en la medicina. Recuperat de https://www.krear3d.com/blog/noticias/tecnologia-de-impresion-3d-aplicado-en-la-medicina/.
+- 3Dnatives. (2020, 7 abril). Proyectos de bioimpresión: órganos y tejidos impresos en 3D. Recuperat de https://www.3dnatives.com/es/proyectos-bioimpresion-organos-tejidos-impresos-3d-070420202/.
