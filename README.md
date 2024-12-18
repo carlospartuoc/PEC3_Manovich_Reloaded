@@ -25,7 +25,7 @@ En aquest punt, ens trobem amb les energies renovables amb qui formen, des del m
 
 Les bateries compleixen una funció crucial perquè actuen com un pont entre la generació d'energia i el seu ús intel·ligent. A diferència dels sistemes convencionals, en els quals l'energia produïda ha de consumir-se instantàniament o es malgasta, les bateries permeten emmagatzemar excedents d'energia generada. D'eixe mode, l'energia emmagatzemada s’utilitza quan més es necessita, és a dir, durant la nit o en dies ennuvolats, en els quals la producció dels nostres panells solars és menor.
 
-![imatge esquema](https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/1632096208206.gif)
+<img src="https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/1632096208206.gif" width="800">
 
 La **modularitat** també es troba als diferents components del sistema (panells solars, bateries, dispositius intel·ligents), ja que actuen com a mòduls connectats però autònoms. Per exemple, un sistema d'emmagatzematge d'energia addicional, l'actualització del programari o instal·lació de més plaques solars pot agregar-se al sistema sense haver de redissenyar tot el sistema.
 
@@ -42,6 +42,9 @@ Pense que aquesta perspectiva que ens dona Manovich és clau per a obrir la ment
 ## Medicina i impressió 3D. 
 
 Aquesta tecnologia relativament nova, és una de les que més està revolucionant un sector essencial com és el de la salut. Però més enllà de l'impacte econòmic, quines transformacions porta la fusió entre la medicina avançada i la impressió 3D a les nostres vides? Aquesta unificació o ‘simbiosi’ entre el software i el hardware, pot exercir un paper clau per a traspassar fronteres en el camp mèdic.
+
+<img src="https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/3d-print-jaw.jpg" width="800">
+
 
 En les seues primeres etapes, la impressió 3D s'usava per a crear prototips molt bàsics destinats a la docència. Per donar un exemple, es podia imprimir un model 3D d'un cor humà en una ressonància, la qual cosa facilitava als metges preparar i estudiar una operació simulada amb una precisió mai vista.
 
@@ -60,8 +63,9 @@ Aquesta no és només una evolució tecnològica sinó un canvi cultural i una r
 - Mosaic. (2018, 18 gener). Elementos de la creatividad multimedia: apropiación, remediación, hibridación. Recuperat de https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/.
 
 - Manovich, L. (2013). El software toma el mando. Editorial UOC. ISBN: 978-8490298650.
-
 - Markdown. (n.d.). Sintaxis Markdown. Recuperat de https://markdown.es/sintaxis-markdown/.
-
 - Formlabs. (n.d.). Aplicaciones de la impresión 3D en la atención sanitaria. Recuperat de https://formlabs.com/es/blog/impresion-3D-atencion-sanitaria/.
+- SolarProfit. (n.d.). Esquema de funcionamiento de la energía solar. Recuperat de https://solarprofit.es/es/blog/esquema-funcionamiento-energia-solar/.
+- Tesla. (n.d.). Energía solar y soluciones para el hogar. Recuperat de https://www.tesla.com/es_es/energy.
+- Ordoñez Meoñ, A. (n.d.). Baterías solares: funcionamiento, tipos, precios y recomendaciones. Recuperat de https://es.linkedin.com/pulse/baterías-solares-funcionamiento-tipos-precios-y-ordoñez-meoñ.
 
