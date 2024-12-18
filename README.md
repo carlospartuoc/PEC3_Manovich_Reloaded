@@ -12,15 +12,21 @@ En aquest cas, realitzarem dos exemples d’hibridació en l'actualitat. En prim
 ## Domòtica i energies renovables (sostenibilitat)
 
 D'acord amb els últims informes de l'Agència Internacional de l'Energia (AIE), més de 30% de l'electricitat mundial prové d'energies renovables i aquesta xifra no para d'incrementar. Això vol dir que estem en camí d'una transició energètica que ens canviarà la vida per complet. No obstant això, aquesta transició no seria possible sense les innovacions tecnològiques i la digitalització en la domòtica. Ens hem plantejat en algun moment: “Com seria viure a una casa intel·ligent alimentada amb energia renovable?”.
+
+![nombre de la imagen](https://mainframeltda.com/wp-content/uploads/2024/07/como-hacer-una-casa-inteligente-4.jpg)
+
 Els primers anys de la domòtica a penes tractava d'automatitzar alguna cosa bàsica com temporitzadors per a encendre i apagar llums. Encara que aquestes solucions semblen útils, en absolut arriben l'escala amb la qual comptem hui dia.
 
-Actualment, gràcies a la integració de la intel·ligència artificial i les dades disponibles en temps real de les estacions meteorològiques, la domòtica s’ha fet molt més sofisticada. Els sistemes actuals no gestionen els dispositius sinó que, analitzen i ajusten el consum de manera activa considerant el dia i l'hora, el factor climatològic i la capacitat de la bateria instal·lada a la casa o espai on ens trobem. Ací trobem un dels principis que menciona Lev Manovich al seu llibre, l’automatització.
+Actualment, gràcies a la integració de la intel·ligència artificial i les dades disponibles en temps real de les estacions meteorològiques, la domòtica s’ha fet molt més sofisticada. Els sistemes actuals no gestionen els dispositius sinó que, analitzen i ajusten el consum de manera activa considerant el dia i l'hora, el factor climatològic i la capacitat de la bateria instal·lada a la casa o espai on ens trobem. Ací trobem un dels principis que menciona Lev Manovich al seu llibre, **l’automatització**.
+
 En aquest punt, ens trobem amb les energies renovables amb qui formen, des del meu punt de vista, la perfecta hibridació amb la domòtica per convertir un espai sostenible energèticament. La utilització de panells solars amb els sistemes de gestió energètica intel·ligent no sols proporciona energia verda, sinó que també es converteix en un productor actiu a la xarxa elèctrica aportant els excedents en hores d’alta demanda.
 
 Les bateries compleixen una funció crucial perquè actuen com un pont entre la generació d'energia i el seu ús intel·ligent. A diferència dels sistemes convencionals, en els quals l'energia produïda ha de consumir-se instantàniament o es malgasta, les bateries permeten emmagatzemar excedents d'energia generada. D'eixe mode, l'energia emmagatzemada s’utilitza quan més es necessita, és a dir, durant la nit o en dies ennuvolats, en els quals la producció dels nostres panells solars és menor.
-La modularitat també es troba als diferents components del sistema (panells solars, bateries, dispositius intel·ligents), ja que actuen com a mòduls connectats però autònoms. Per exemple, un sistema d'emmagatzematge d'energia addicional, l'actualització del programari o instal·lació de més plaques solars pot agregar-se al sistema sense haver de redissenyar tot el sistema.
 
-A continuació, citem a Manovich: “en els híbrids de mitjans, les interfícies, tècniques i en última instància les pressuposicions més bàsiques dels diversos formats i tradicions de mitjans s'uneixen i donen peu a noves gestalts de mitjans. És a dir, es fusionen per a oferir una experiència nova i coherent, que és diferent d'experimentar els elements un per un.”
+La **modularitat** també es troba als diferents components del sistema (panells solars, bateries, dispositius intel·ligents), ja que actuen com a mòduls connectats però autònoms. Per exemple, un sistema d'emmagatzematge d'energia addicional, l'actualització del programari o instal·lació de més plaques solars pot agregar-se al sistema sense haver de redissenyar tot el sistema.
+
+> *"En els híbrids de mitjans, les interfícies, tècniques i en última instància les pressuposicions més bàsiques dels diversos formats i tradicions de mitjans s'uneixen i donen peu a noves gestalts de mitjans. És a dir, es fusionen per a oferir una experiència nova i coherent, que és diferent d'experimentar els elements un per un." - Lev Manovich*
+
 Aquesta hibridació no és una simple coexistència d’elements, sino que genera una experiència unificada on els recursos estan utilitzats amb intel·ligència i l'usuari percep la casa com un ecosistema funcional i autosostenible.
 
 De fet, “la ludificació” ja s’està començant a implantar en la domòtica: empreses com Tesla, Loxone o Ecobee, ja et permeten visualitzar i controlar el teu consum energètic com si es tractara d'un joc, mitjançant la recompensa per l’eficiència i fomentant hàbits més sostenibles.
