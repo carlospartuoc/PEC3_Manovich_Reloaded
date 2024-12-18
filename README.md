@@ -9,6 +9,8 @@ Com diu Manovich, aquest fenomen no és solament “adaptar” com féiem a la r
 
 En aquest cas, realitzarem dos exemples d’hibridació en l'actualitat. En primer lloc, parlarem de domòtica i energies renovables, on la seua fusió ens dona la possibilitat de controlar a temps real el consum energètic i optimitzar-lo al màxim. Després, analitzarem la combinació de la medicina amb la impressió 3D, que ens permet la creació d'objectes tridimensionals com pròtesis, implants i òrgans artificials.
 
+Ens posem les ulleres de Manovich.
+
 ## Domòtica i energies renovables (sostenibilitat)
 
 D'acord amb els últims informes de l'Agència Internacional de l'Energia (AIE), més de 30% de l'electricitat mundial prové d'energies renovables i aquesta xifra no para d'incrementar. Això vol dir que estem en camí d'una transició energètica que ens canviarà la vida per complet. No obstant això, aquesta transició no seria possible sense les innovacions tecnològiques i la digitalització en la domòtica. Ens hem plantejat en algun moment: “Com seria viure a una casa intel·ligent alimentada amb energia renovable?”.
@@ -31,9 +33,9 @@ La **modularitat** també es troba als diferents components del sistema (panells
 
 Aquesta hibridació no és una simple coexistència d’elements, sino que genera una experiència unificada on els recursos estan utilitzats amb intel·ligència i l'usuari percep la casa com un ecosistema funcional i autosostenible.
 
-De fet, la “ludificació” ja s’està començant a implantar en la domòtica: empreses com Tesla, Loxone o Ecobee, ja et permeten visualitzar i controlar el teu consum energètic com si es tractara d'un joc, mitjançant la recompensa per l’eficiència i fomentant hàbits més sostenibles.
+De fet, la “ludificació” ja s’està començant a implantar en la domòtica: empreses com Tesla, Loxone o Ecobee, ja et permeten visualitzar i controlar el teu consum energètic com si es tractara d'un joc, mitjançant la recompensa per l’eficiència i fomentant hàbits més sostenibles. Fent clic a la imatge portarà a un vídeo on explica com funciona aquest sistema.
 
-![imatge tesla](https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/Tesla-Energy-Plan-Australia-640x320.jpg)
+[![imatge tesla](https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/Tesla-Energy-Plan-Australia-640x320.jpg)](https://www.youtube.com/watch?v=hXIa_b5sqvw)
 
 Pense que aquesta perspectiva que ens dona Manovich és clau per a obrir la ment, fer front al canvi climàtic i millorar la nostra qualitat de vida al segle XXI. També et convida a pensar i viure d’una manera diferent, obrint portes cap a un futur on la tecnologia i la naturalesa poden conviure de manera més sostenible.
 
