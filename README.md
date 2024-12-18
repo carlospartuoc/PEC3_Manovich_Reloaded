@@ -1,6 +1,5 @@
 # PEC3_Manovich_Reloaded
-Carlos Part Pellicer
-Grau Multmèdia: Curs 24/25.
+Carlos Part Pellicer. Grau Multmèdia: Curs 24/25.
 ## Introducció
 
 Al llibre "El software toma el mando", Lev Manovich ens diu que la hibridació és la combinació de diferents mitjans i tecnologies que s’uneixen per crear noves experiències i nous formats transformadors.
