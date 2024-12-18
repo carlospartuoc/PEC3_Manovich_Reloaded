@@ -45,16 +45,17 @@ Aquesta tecnologia relativament nova, és una de les que més està revolucionan
 
 <img src="https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/3d-print-jaw.jpg" width="800">
 
-
 En les seues primeres etapes, la impressió 3D s'usava per a crear prototips molt bàsics destinats a la docència. Per donar un exemple, es podia imprimir un model 3D d'un cor humà en una ressonància, la qual cosa facilitava als metges preparar i estudiar una operació simulada amb una precisió mai vista.
 
 Hui dia, la impressió 3D ha anat més enllà i s'ha introduït en camps com la bioenginyeria i la medicina. Un dels exemples més destacats són els implants a mida de pròtesis, implants dentals o fins i tot, ossos fets directament amb material biocompatibles. Però si mirem més enllà, la bioimpressió és una de les aplicacions més revolucionàries: consisteix a imprimir teixits humans obtinguts de cèl·lules vives. Aquesta hibridació entre la impressió 3D i la biologia ha reinventat les trasplantacions i regeneracions en el camp de la medicina, ofereix solucions que no serien possibles de forma independent.
 
-Els professionals mèdics poden utilitzar la impressió 3D per a treballar amb imatges digitals, com ara tomografies, ressonàncies magnètiques, i aquests poden generar models i implants exclusivament per al pacient específic. Ací podem observar un clar exemple de modularitat: les dades mèdiques passen a ser manipulades i reutilitzades en altres processos com la impressió 3D i el disseny per ordinador (CAD).
+<img src="https://github.com/carlospartuoc/PEC3_Manovich_Reloaded/blob/main/imatges/cover-organs.jpg" width="500">
 
-A més, també es podria considerar que aquest procés és un cas d’automatització, un altre principi a l'obra de Manovich. Gràcies a algorismes extremadament sofisticats, molts dels procediments que antigament necessitaven un informàtic per a fer-ho funcionar, ara es fan de manera automàtica. Per exemple, la segmentació d'imatges mèdiques o la generació de patrons d'impressió. D'aquesta manera, no sols reduïm els possibles errors humans sinó que a més millorem el temps de resposta.
+Els professionals mèdics poden utilitzar la impressió 3D per a treballar amb imatges digitals, com ara tomografies, ressonàncies magnètiques, i aquests poden generar models i implants exclusivament per al pacient específic. Ací podem observar un clar exemple de **modularitat**: les dades mèdiques passen a ser manipulades i reutilitzades en altres processos com la impressió 3D i el disseny per ordinador (CAD).
 
-D’altra banda, la impressió 3D també és un exemple de la variabilitat, un altre principi fonamental. Si bé, els tractaments mèdics antigament s’havien basat en solucions amb patrons estàndard, ara s’obri una possibilitat molt més gran: cada model, implant i pròtesi poden ser ajustats en temps real, tenint en compte les dades recopilades. D’aquesta manera creem una experiència mèdica única i adaptada per a pacient, fomentant una relació més propera amb el metge.
+A més, també es podria considerar que aquest procés és un cas d’**automatització**, un altre principi a l'obra de Manovich. Gràcies a algorismes extremadament sofisticats, molts dels procediments que antigament necessitaven un informàtic per a fer-ho funcionar, ara es fan de manera automàtica. Per exemple, la segmentació d'imatges mèdiques o la generació de patrons d'impressió. D'aquesta manera, no sols reduïm els possibles errors humans sinó que a més millorem el temps de resposta.
+
+D’altra banda, la impressió 3D també és un exemple de la **variabilitat**, un altre principi fonamental. Si bé, els tractaments mèdics antigament s’havien basat en solucions amb patrons estàndard, ara s’obri una possibilitat molt més gran: cada model, implant i pròtesi poden ser ajustats en temps real, tenint en compte les dades recopilades. D’aquesta manera creem una experiència mèdica única i adaptada per a pacient, fomentant una relació més propera amb el metge.
 
 Aquesta no és només una evolució tecnològica sinó un canvi cultural i una revolució que redefineix els límits dels mitjans, generant així un nou paradigma mèdic que és, alhora, digital, físic i més personalitzat.
 
